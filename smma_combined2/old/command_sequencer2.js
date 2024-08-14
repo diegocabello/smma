@@ -4,8 +4,8 @@ const simpleDicto = require("./interests_and_habits_objs").simple_dicto;
 const ast = require("abstract-syntax-tree");
 
 const configuration = new Configuration({
-  organization: "org-jcGd5pFkMs5evmbGdsLaQQgb",
-  apiKey: "sk-proj-mgcSidSdj4C7vI6SDyw7T3BlbkFJchaP2gcCJB5V6uCDaaAs"
+  organization: "",
+  apiKey: ""
 });
 const openai = new OpenAIApi(configuration);
 
