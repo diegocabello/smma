@@ -1,0 +1,15 @@
+{
+  "name": "smma_combined",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interest_and_habits_objs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.47.1"
+  }
+}

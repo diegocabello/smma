@@ -1,0 +1,2309 @@
+Root
+└── Banking & Finance:
+    ├── selectable_xpath:
+    │   └── /html
+    ├── dropdown_xpath:
+    │   └── /html
+    └── children:
+        ├── Banking & Finance:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Avid Investors:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Banks Online:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Avid Investors:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Banks Online:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Beauty & Wellness:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Beauty Mavens:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Frequently Visits Salons:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Beauty Mavens:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Frequently Visits Salons:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Food & Dining:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Coffee Shop Regulars:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Cooking Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── 30 Minute Chefs:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Aspiring Chefs:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── 30 Minute Chefs:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Aspiring Chefs:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fast Food Cravers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Foodies:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Frequently Dines Out:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Prefers Organic Food:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Vegetarians & Vegans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       └── Vegans:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       └── Vegans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Coffee Shop Regulars:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Cooking Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── 30 Minute Chefs:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Aspiring Chefs:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── 30 Minute Chefs:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Aspiring Chefs:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fast Food Cravers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Foodies:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Frequently Dines Out:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Prefers Organic Food:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Vegetarians & Vegans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       └── Vegans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Vegans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Home & Garden:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Do-It-Yourselfers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Home Decor Enthusiasts:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Do-It-Yourselfers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Home Decor Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Lifestyles & Hobbies:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Art & Theater Aficionados:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Business Professionals:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Charitable Donors & Volunteers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Family-Focused:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       └── Homeschooling Parents:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Homeschooling Parents:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fashionistas:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Frequently Attends Live Events:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Green Living Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Nightlife Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Outdoor Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Pet Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Cat Lovers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Dog Lovers:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Cat Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Dog Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Shutterbugs:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Thrill Seekers:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Art & Theater Aficionados:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Business Professionals:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Charitable Donors & Volunteers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Family-Focused:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       └── Homeschooling Parents:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Homeschooling Parents:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fashionistas:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Frequently Attends Live Events:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Green Living Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Nightlife Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Outdoor Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Pet Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Cat Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Dog Lovers:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Cat Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Dog Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Shutterbugs:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Thrill Seekers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Media & Entertainment:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Book Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Comics & Animation Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Action Game Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Adventure & Strategy Game Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Casual & Social Gamers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Console Gamers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Driving & Racing Game Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Esports Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Fans of New & Upcoming Video Games:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Hardcore Gamers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── PC Gamers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Roleplaying Game Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Shooter Game Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Sports Game Fans:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Action Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Adventure & Strategy Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Casual & Social Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Console Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Driving & Racing Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Esports Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of New & Upcoming Video Games:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Hardcore Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── PC Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Roleplaying Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Shooter Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Sports Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Light TV Viewers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Movie Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Action & Adventure Movie Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Comedy Movie Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Family Movie Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Fans of New & Upcoming Movies:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Fans of South Asian Film:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Horror Movie Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Romance & Drama Movie Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Sci-Fi & Fantasy Movie Fans:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Action & Adventure Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Comedy Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Family Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of New & Upcoming Movies:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of South Asian Film:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Horror Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Romance & Drama Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Sci-Fi & Fantasy Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Music Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Blues Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Classical Music Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Country Music Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Electronic Dance Music Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Fans of Latin Music:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Folk & Traditional Music Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Indie & Alternative Rock Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Jazz Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Metalheads:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Pop Music Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Rap & Hip Hop Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Rock Music Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── World Music Fans:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Blues Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Classical Music Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Country Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Electronic Dance Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of Latin Music:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Folk & Traditional Music Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Indie & Alternative Rock Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Jazz Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Metalheads:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Pop Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Rap & Hip Hop Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Rock Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── World Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── TV Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Documentary & Nonfiction TV Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Family Television Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Game, Reality & Talk Show Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Sci-Fi & Fantasy TV Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── TV Comedy Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── TV Drama Fans:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Documentary & Nonfiction TV Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Family Television Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Game, Reality & Talk Show Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Sci-Fi & Fantasy TV Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── TV Comedy Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── TV Drama Fans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Book Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Comics & Animation Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Gamers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Action Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Adventure & Strategy Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Casual & Social Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Console Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Driving & Racing Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Esports Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of New & Upcoming Video Games:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Hardcore Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── PC Gamers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Roleplaying Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Shooter Game Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Sports Game Fans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Action Game Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Adventure & Strategy Game Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Casual & Social Gamers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Console Gamers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Driving & Racing Game Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Esports Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fans of New & Upcoming Video Games:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Hardcore Gamers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── PC Gamers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Roleplaying Game Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Shooter Game Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Sports Game Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Light TV Viewers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Movie Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Action & Adventure Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Comedy Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Family Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of New & Upcoming Movies:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of South Asian Film:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Horror Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Romance & Drama Movie Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Sci-Fi & Fantasy Movie Fans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Action & Adventure Movie Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Comedy Movie Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Family Movie Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fans of New & Upcoming Movies:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fans of South Asian Film:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Horror Movie Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Romance & Drama Movie Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Sci-Fi & Fantasy Movie Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Music Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Blues Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Classical Music Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Country Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Electronic Dance Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of Latin Music:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Folk & Traditional Music Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Indie & Alternative Rock Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Jazz Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Metalheads:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Pop Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Rap & Hip Hop Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Rock Music Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── World Music Fans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Blues Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Classical Music Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Country Music Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Electronic Dance Music Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fans of Latin Music:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Folk & Traditional Music Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Indie & Alternative Rock Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Jazz Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Metalheads:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Pop Music Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Rap & Hip Hop Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Rock Music Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── World Music Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── TV Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Documentary & Nonfiction TV Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Family Television Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Game, Reality & Talk Show Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Sci-Fi & Fantasy TV Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── TV Comedy Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── TV Drama Fans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Documentary & Nonfiction TV Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Family Television Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Game, Reality & Talk Show Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Sci-Fi & Fantasy TV Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── TV Comedy Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── TV Drama Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── News & Politics:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Avid News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Avid Business News Readers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Avid Local News Readers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Avid Political News Readers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Avid World News Readers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Entertainment News Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Men's Media Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Women's Media Fans:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Avid Business News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Avid Local News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Avid Political News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Avid World News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Entertainment News Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Men's Media Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Women's Media Fans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Avid News Readers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Avid Business News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Avid Local News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Avid Political News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Avid World News Readers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Entertainment News Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Men's Media Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Women's Media Fans:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Avid Business News Readers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Avid Local News Readers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Avid Political News Readers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Avid World News Readers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Entertainment News Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Men's Media Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Women's Media Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Shoppers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Bargain Hunters:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Luxury Shoppers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Shopping Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Value Shoppers:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Bargain Hunters:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Luxury Shoppers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Shopping Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Value Shoppers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Sports & Fitness:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Health & Fitness Buffs:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Weightlifters:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Yoga Lovers:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Weightlifters:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Yoga Lovers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Sports Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Baseball Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Basketball Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Boating & Sailing Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Cricket Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Cycling Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Fans of American Football:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Fans of Australian Football:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Fight & Wrestling Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Golf Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Hockey Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Motor Sports Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Racquetball Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Rugby Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Running Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Skiing Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Soccer Fans:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Swimming Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Tennis Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Water Sports Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Winter Sports Enthusiasts:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Baseball Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Basketball Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Boating & Sailing Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Cricket Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Cycling Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of American Football:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of Australian Football:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fight & Wrestling Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Golf Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Hockey Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Motor Sports Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Racquetball Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Rugby Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Running Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Skiing Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Soccer Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Swimming Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Tennis Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Water Sports Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Winter Sports Enthusiasts:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Health & Fitness Buffs:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+│       ├── Weightlifters:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Yoga Lovers:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Weightlifters:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Yoga Lovers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Sports Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Baseball Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Basketball Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Boating & Sailing Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Cricket Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Cycling Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of American Football:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fans of Australian Football:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Fight & Wrestling Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Golf Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Hockey Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Motor Sports Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Racquetball Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Rugby Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Running Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Skiing Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Soccer Fans:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Swimming Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Tennis Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Water Sports Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Winter Sports Enthusiasts:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Baseball Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Basketball Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Boating & Sailing Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Cricket Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Cycling Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fans of American Football:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fans of Australian Football:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Fight & Wrestling Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Golf Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Hockey Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Motor Sports Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Racquetball Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Rugby Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Running Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Skiing Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Soccer Fans:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Swimming Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Tennis Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Water Sports Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Winter Sports Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Technology:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Mobile Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Social Media Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Technophiles:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Audiophiles:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Cloud Services Power Users:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── High-End Computer Aficionados:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Home Automation Enthusiasts:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Audiophiles:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Cloud Services Power Users:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── High-End Computer Aficionados:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Home Automation Enthusiasts:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Mobile Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Social Media Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Technophiles:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Audiophiles:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Cloud Services Power Users:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── High-End Computer Aficionados:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Home Automation Enthusiasts:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Audiophiles:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Cloud Services Power Users:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── High-End Computer Aficionados:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Home Automation Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Travel:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Business Travelers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Travel Buffs:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Beachbound Travelers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Family Vacationers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Luxury Travelers:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Snowbound Travelers:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Beachbound Travelers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Family Vacationers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Luxury Travelers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Snowbound Travelers:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Business Travelers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Travel Buffs:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Beachbound Travelers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Family Vacationers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Luxury Travelers:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Snowbound Travelers:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Beachbound Travelers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Family Vacationers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Luxury Travelers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Snowbound Travelers:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Vehicles & Transportation:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Auto Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Motorcycle Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       ├── Performance & Luxury Vehicle Enthusiasts:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Truck & SUV Enthusiasts:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Motorcycle Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Performance & Luxury Vehicle Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Truck & SUV Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Transportation Modes:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   ├── dropdown_xpath:
+        │       │   │   └── /html
+        │       │   └── children:
+        │       │       ├── Public Transit Users:
+        │       │       │   ├── selectable_xpath:
+        │       │       │   │   └── /html
+        │       │       │   └── dropdown_xpath:
+        │       │       │       └── /html
+        │       │       └── Taxi Service Users:
+        │       │           ├── selectable_xpath:
+        │       │           │   └── /html
+        │       │           └── dropdown_xpath:
+        │       │               └── /html
+        │       ├── Public Transit Users:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Taxi Service Users:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Auto Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Motorcycle Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       ├── Performance & Luxury Vehicle Enthusiasts:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Truck & SUV Enthusiasts:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Motorcycle Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Performance & Luxury Vehicle Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Truck & SUV Enthusiasts:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        ├── Transportation Modes:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   ├── dropdown_xpath:
+        │   │   └── /html
+        │   └── children:
+        │       ├── Public Transit Users:
+        │       │   ├── selectable_xpath:
+        │       │   │   └── /html
+        │       │   └── dropdown_xpath:
+        │       │       └── /html
+        │       └── Taxi Service Users:
+        │           ├── selectable_xpath:
+        │           │   └── /html
+        │           └── dropdown_xpath:
+        │               └── /html
+        ├── Public Transit Users:
+        │   ├── selectable_xpath:
+        │   │   └── /html
+        │   └── dropdown_xpath:
+        │       └── /html
+        └── Taxi Service Users:
+            ├── selectable_xpath:
+            │   └── /html
+            └── dropdown_xpath:
+                └── /html
